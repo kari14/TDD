@@ -1,5 +1,5 @@
 package is.ru.stringcalculator;
-
+//Comment!!!
 public class Calculator {
 
 	public static int add(String text){
